@@ -1,1 +1,1 @@
-# cs7641-machinelearning
+Python 2.7 is used to run this algorithm
